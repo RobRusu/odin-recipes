@@ -1,0 +1,45 @@
+.recipes {
+  font-size: 36px;
+  background-color: lightgreen;
+  color: blue;
+  text-align: center;
+}
+
+.links {
+  font-weight: 400;
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#burger {
+  font-family: fantasy;
+  font-weight: 900;
+}
+
+#cookies {
+  font-family: cursive;
+}
+
+.home {
+  font-weight: bold;
+  border: 2px solid black;
+  color: #fff;
+  background-color: black;
+}
+
+.center-all {
+  text-align: center;
+}
+
+.steps {
+  text-align: left;
+}
+
+.ingredients {
+  list-style-type: none;
+}
+
+body {
+  background-color: lightsalmon;
+}
