@@ -3,6 +3,9 @@
   background-color: lightgreen;
   color: blue;
   text-align: center;
+  margin: 0 auto;
+  margin-left: 1050px;
+  margin-right: 1050px;
 }
 
 .links {
@@ -10,6 +13,10 @@
   font-size: 20px;
   font-family: sans-serif;
   text-align: center;
+  border: 2px dotted black;
+  margin-top: 10px;
+  margin-left: 1050px;
+  margin-right: 1050px;
 }
 
 #burger {
@@ -23,9 +30,11 @@
 
 .home {
   font-weight: bold;
-  border: 2px solid black;
-  color: #fff;
-  background-color: black;
+  color: blue;
+  background-color: lightgreen;
+  display: block;
+  margin: 0 1050px 5px 1050px;
+  border-top: 1px solid black;
 }
 
 .center-all {
@@ -33,13 +42,26 @@
 }
 
 .steps {
-  text-align: left;
+  text-align: center;
+  margin-left: 1050px;
+  margin-right: 1050px;
 }
 
 .ingredients {
   list-style-type: none;
+  margin-left: 1050px;
+  margin-right: 1050px;
 }
 
 body {
-  background-color: lightsalmon;
+  background-color: rgb(203, 223, 203);
+}
+
+ul {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+li {
+  margin-bottom: 5px;
 }
